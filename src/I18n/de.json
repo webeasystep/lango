@@ -1,0 +1,19 @@
+{
+  "home": {
+    "title": "Willkommen",
+    "introduction": "Dieser Text ist von i18next und ist in deutsch."
+  },
+  "page2": {
+    "title": "Seite 2",
+    "introduction": "Text auf Seite 2"
+  },
+  "common": {
+    "currentLanguage": "Die Sprache ist auf '{{lng}}' gesetzt",
+    "actions": {
+      "toggleToGerman": "Deutsch",
+      "toggleToEnglish": "English",
+      "toggleToArabic": "Arabic",
+      "goToPage2": "Öffne Seite 2"
+    }
+  }
+}

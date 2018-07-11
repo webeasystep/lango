@@ -1,0 +1,19 @@
+{
+  "home": {
+    "title": "عنوان تجريبي للنص",
+    "introduction": "هذا النص من i18next وهو باللغة الألمانية."
+  },
+  "page2": {
+    "title": "الصفحة 2",
+    "introduction": "النص في الصفحة 2"
+  },
+  "common": {
+    "currentLanguage":  " تم تعيين اللغة على '{{lng}}' ",
+    "actions": {
+      "toggleToGerman": "الألمانية",
+      "toggleToEnglish": "الإنجليزية",
+      "toggleToArabic": "العربية",
+      "goToPage2": "افتح الصفحة 2"
+    }
+  }
+}
