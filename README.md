@@ -1,3 +1,3 @@
 # lango
 
-react native multi language app
+react native multi language app with I18Next
